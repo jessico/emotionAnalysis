@@ -1,0 +1,31 @@
+certifi==2021.5.30
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1613413867554/work
+chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1602255309768/work
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1616851478755/work
+cycler==0.10.0
+idna==2.7
+jieba==0.39
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1610099773791/work
+lxml==4.2.5
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-suite_1617212792183/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1622014598512/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+pandas==0.23.4
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1625143756689/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pyparsing==2.4.7
+PyQt5==5.12.3
+PyQt5-sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1610291444829/work
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
+requests==2.20.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+snownlp==0.12.3
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1610094704591/work
+tqdm==4.60.0
+urllib3==1.23
+wordcloud==1.5.0
